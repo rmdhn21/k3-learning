@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>K3 Learning - Persiapan Tes Kerja RIG</title>
+    <meta name="description"
+        content="Aplikasi pembelajaran K3 interaktif untuk persiapan tes masuk kerja RIG. 10 bab lengkap dengan kuis.">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+</head>
+
+<body>
+
+    <!-- Mobile Menu Toggle -->
+    <button class="menu-toggle" id="menuToggle" aria-label="Toggle menu">☰</button>
+    <div class="sidebar-overlay" id="sidebarOverlay"></div>
+
+    <!-- Sidebar -->
+    <aside class="sidebar" id="sidebar">
+        <div class="sidebar-header">
+            <div class="sidebar-logo">🛡️</div>
+            <div>
+                <div class="sidebar-title">K3 Learning</div>
+                <div class="sidebar-subtitle">Persiapan Tes Kerja RIG</div>
+            </div>
+        </div>
+        <div class="sidebar-progress">
+            <div class="progress-label">
+                <span>Progres Belajar</span>
+                <span id="progressPercent">0%</span>
+            </div>
+            <div class="progress-bar">
+                <div class="progress-fill" id="progressFill"></div>
+            </div>
+        </div>
+        <nav class="sidebar-nav" id="sidebarNav">
+            <div class="nav-item active" data-section="home">
+                <div class="nav-number">🏠</div>
+                <div class="nav-text">Beranda</div>
+            </div>
+            <div class="nav-item" data-section="ch1">
+                <div class="nav-number">1</div>
+                <div class="nav-text">Alat Pelindung Diri</div>
+            </div>
+            <div class="nav-item" data-section="ch2">
+                <div class="nav-number">2</div>
+                <div class="nav-text">Klasifikasi APAR</div>
+            </div>
+            <div class="nav-item" data-section="ch3">
+                <div class="nav-number">3</div>
+                <div class="nav-text">Gas Detector</div>
+            </div>
+            <div class="nav-item" data-section="ch4">
+                <div class="nav-number">4</div>
+                <div class="nav-text">Incident</div>
+            </div>
+            <div class="nav-item" data-section="ch5">
+                <div class="nav-number">5</div>
+                <div class="nav-text">Unsafe Action & Condition</div>
+            </div>
+            <div class="nav-item" data-section="ch6">
+                <div class="nav-number">6</div>
+                <div class="nav-text">Bahaya di RIG</div>
+            </div>
+            <div class="nav-item" data-section="ch7">
+                <div class="nav-number">7</div>
+                <div class="nav-text">Surat Izin Kerja Aman</div>
+            </div>
+            <div class="nav-item" data-section="ch8">
+                <div class="nav-number">8</div>
+                <div class="nav-text">Peralatan Emergency</div>
+            </div>
+            <div class="nav-item" data-section="ch9">
+                <div class="nav-number">9</div>
+                <div class="nav-text">Materi K3</div>
+            </div>
+            <div class="nav-item" data-section="ch10">
+                <div class="nav-number">10</div>
+                <div class="nav-text">Segitiga API</div>
+            </div>
+        </nav>
+        <div class="nav-quiz">
+            <button class="nav-quiz-btn" data-section="quiz">📝 Mulai Kuis Latihan</button>
+        </div>
+    </aside>
+
+    <!-- Main Content -->
+    <main class="main-content">
+        <!-- Home Section -->
+        <div class="section active" id="home">
+            <div class="hero">
+                <div class="hero-badge">🔥 Siap Hadapi Tes K3</div>
+                <h1>Kuasai <span>Keselamatan Kerja</span> untuk Karir di RIG</h1>
+                <p class="hero-desc">Pelajari 10 bab K3 secara mendalam dengan materi interaktif, peta konsep, dan
+                    latihan soal untuk persiapan tes masuk kerja.</p>
+                <div class="hero-stats">
+                    <div class="stat-item">
+                        <div class="stat-number">10</div>
+                        <div class="stat-label">Bab Materi</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-number">50</div>
+                        <div class="stat-label">Soal Latihan</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-number">∞</div>
+                        <div class="stat-label">Latihan Ulang</div>
+                    </div>
+                </div>
+            </div>
+            <div class="chapters-grid" id="chaptersGrid"></div>
+        </div>
+
+        <!-- Dynamic chapter sections will be injected here -->
+        <div id="chaptersContainer"></div>
+
+        <!-- Quiz Section -->
+        <div class="section" id="quiz">
+            <div class="quiz-container">
+                <div class="quiz-header">
+                    <div class="section-badge badge-orange">📝 LATIHAN SOAL</div>
+                    <h2 class="section-title">Kuis <span>Latihan K3</span></h2>
+                    <p class="section-subtitle">50 soal dari 10 bab untuk mengukur pemahaman Anda</p>
+                </div>
+                <div class="quiz-progress">
+                    <div class="quiz-progress-bar">
+                        <div class="quiz-progress-fill" id="quizProgressFill"></div>
+                    </div>
+                    <div class="quiz-progress-text" id="quizProgressText">0/50</div>
+                </div>
+                <div id="quizContent"></div>
+                <div class="quiz-actions" id="quizActions" style="display:none;">
+                    <button class="btn btn-secondary" id="btnPrev">← Sebelumnya</button>
+                    <button class="btn btn-primary" id="btnNext">Selanjutnya →</button>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <script src="chapters.js"></script>
+    <script src="quiz-data.js"></script>
+    <script src="studio-data.js"></script>
+    <script src="app.js"></script>
+    <script src="studio.js"></script>
+</body>
+
+</html>
