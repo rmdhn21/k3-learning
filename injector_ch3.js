@@ -32,6 +32,17 @@ const ch3Content = `  {
 </div>
 
 <div class="content-block">
+  <h3><span class="icon">🎥</span> Video Tutorial: Penggunaan Gas Detector</h3>
+  <div class="video-container" style="margin: 20px 0; position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); background-color: #000;">
+    <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls preload="metadata">
+        <source src="videos/gas_detector.mp4" type="video/mp4">
+        Maaf, browser Anda tidak mendukung pemutar video HTML5.
+    </video>
+  </div>
+  <p>Tonton video di atas untuk memahami cara kalibrasi dasar dan pembacaan level aman pada Portable Gas Detector harian di lapangan kerja.</p>
+</div>
+
+<div class="content-block">
   <h3><span class="icon">⚗️</span> Gas Berbahaya di RIG</h3>
   <div class="table-container"><table>
     <thead><tr><th>Gas</th><th>Rumus</th><th>Sifat</th><th>Batas Aman (TWA)</th><th>Bahaya</th></tr></thead>

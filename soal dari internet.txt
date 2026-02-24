@@ -1,0 +1,1166 @@
+SOAL BASIC HSE TRAINING (PT PERTAMINA EP)
+Panduan Umum HSE
+
+PT Pertamina EP dalam usahannya di bidang Kegiatan Usaha Hulu Minyak dan Gas Bumi memberikan prioritas utama terhadap aspek HSE dengan cara:
+a. Mendapatkan keuntungan melalui produksi Migas sebesar-besarnya
+b. Mengupayakan strategi pencapaian cadangan Migas sebesar-besarnya
+c. Menerapkan teknologi terbaru dalam kegiatan operasi produksi
+d. Mengintegrasikan aspek HSE dalam setiap kegiatan operasi
+
+Kewajiban Pengurus diantaranya:
+a. Menunjukkan dan menjelaskan Kondisi dan bahaya yang timbul di tempat kerja
+b. Menjelaskan alat pengaman dan alat perlindungan yang diharuskan dalam tempat kerja
+c. APD bagi tenaga kerja dan cara dan sikap yang aman dalam melaksanakan pekerjaan.
+d. Jawaban a, b, c benar
+
+Jarak aman dari sumur pemboran dengan flare stack paling dekat:
+a. 70 meter (KUPAK)
+b. 80 meter (KUPAK)
+c. 90 meter (KUPAK)
+d. 100 meter (KUPAK)
+
+PEKA (Pengamatan Keselamatan Kerja)
+4. Hal berikut ini yang termasuk dalam unsafe condition :
+a. Pengaman yang tidak memadai
+b. Mengoperasikan pada kecepatan yang tidak sesuai
+c. Mengoperasikan alat tanpa otorisasi
+d. Pengangkatan beban yang tidak sesuai
+
+Siapakah yang berhak untuk melakukan tindak lanjut laporan PEKA :
+a. Fungsi HSE
+b. Pengelola PEKA
+c. Komite HSE
+d. Fungsi/divisi/bagian yang telah ditunjuk oleh pengelola PEKA (PIC)
+
+The New PEKA online dilengkapi beberapa fitur yang dapat memberikan informasi PEKA antara lain :
+a. List PEKA dan SMHSE
+b. Online dashboard dan HSE Golden rules
+c. Notifikasi melalui email kepada PIC
+d. Online dashboard dan SMHSE
+
+JSA (Job Safety Analysis)
+7. Sebutkan kepanjangan dari JSA
+a. Job Safety Analysis
+b. Job Security Action
+c. Job Safety and Security Action
+d. Job Safety Action
+
+Berikut adalah manfaat yang dapat diambil dari JSA, kecuali
+a. Mengkaji prosedur kerja setelah terjadinya suatu kecelakaan
+b. Memberikan ‘pre-job instruction on irregular jobs’
+c. Menyediakan petunjuk kerja yang konsisten untuk keperluan orientasi, training dan retraining pekerja baru, pindahan dan pekerja lama
+d. Agar jelas kepada siapa nantinya diberikan hukuman bila terjadi kecelakaan
+
+Berikut merupakan hierarki (dari yang tertinggi) pengendalian resiko bahaya berdasar OHSAS 18001 : 2008, yaitu
+a. Adminstrasi, eliminasi, subtitusi, rekayasa engineering, APD
+b. APD, rekayasa engineering, subtitusi, adminstrasi, eliminasi
+c. Eliminasi, subtitusi, rekayasa engineering, adminstrasi, APD
+d. Rekayasa engineering, admnistrasi, APD, eliminasi, subtitusi
+
+SIKA (Surat Izin Kerja Aman)
+10. Pengawas pekerjaan dari dalam atau luar fungsi di lingkungan PT. Pertamina EP, di dalam formulir SIKA disebut ?
+a. Peminta ijin
+b. Pemberi ijin
+c. Pemegang ijin
+d. Atasan pemegang ijin
+
+Pimpinan fungsi yang bertanggung jawab atas aset yang menjadi obyek pekerjaan dan berpotensi untuk terjadinya insiden terhadap aset, di dalam formulir SIKA disebut ?
+a. Peminta ijin
+b. Pemberi ijin
+c. Pemegang ijin
+d. Atasan pemegang ijin
+
+Di bawah ini adalah ciri-ciri Sika Umum, kecuali
+a. Jumlah pekerjaan bisa lebih dari 2
+b. Jangka waktu bisa sampai 2 minggu
+c. Jangka waktu pekerjaan maksimal 7 hari
+d. Jumlah pekerjaan > 1
+
+NAPZA
+13. Pertamina EP dengan tegas melarang Penyalahgunaan psikotropika karena akan berdampak buruk terhadap diri pekerja baik dampak komplikasi medis, maupun dampak sosial. Manakah dampak penyalahgunaan psikotropika berikut ini yang termasuk dalam jenis dampak sosial?
+a. Halusinasi dan Kejahatan/Kriminalitas
+b. Penurunan Konsentrasi & Motivasi dan Kecelakaan jalan raya
+c. Citra Perusahaan akan tercoreng, Kriminalitas & Kecelakaan jalan raya
+d. Penurunan Konsentrasi & Motivasi
+
+Pemakaian Psikotropika, Narkotika dan Zat aditif untuk diri sendiri tanpa indikasi dan tidak bertujuan untuk pengobatan adalah penyalahgunaan zat (drug abuse). Bentuk dari penyalahgunaan yang dilarang oleh Pertamina EP adalah :
+a. Menggunakan dan Memiliki psikotropika
+b. Memiliki Psikotropika namun tidak menggunakannya
+c. Menggunakan, Memiliki & Mendistribusikan psikotropika
+d. Jawaban a, b, dan c benar
+
+MSDS (Material Safety Data Sheet)
+15. Melalui jalur apa sajakah racun bahan kimia dapat masuk ke dalam tubuh manusia?
+a. Saluran pernapasan, Mulut, Kulit
+b. Saluran pencernaan, saluran pernapasan, saluran pendengaran
+c. Makan, Sentuhan, Kontak Mata
+d. Radiasi, Saluran pernapasan, Kulit
+
+Paparan dengan konsentrasi yang rendah dalam jangka waktu lama masih dapat ditolerir, akan tetapi secara kumulatif bisa menimbulkan :
+a. Efek akut
+b. Efek kronis
+c. Efek penyakit
+d. Keracunan
+
+Berikut adalah jenis batas pemaparan, kecuali :
+a. TLV-TWA
+b. TLV-STEL
+c. 60 menit O.E.L. atau 60 Menit T.W.A
+d. TLV-Ceiling
+
+APD (Alat Pelindung Diri)
+18. Apakah yang dimaksud dengan Alat Pelindung Diri?
+a. Perlengkapan yang digunakan untuk melindungi tenaga kerja dari bahaya lingkungan kerja
+b. Perlengkapan yang digunakan untuk melindungi pekerja dari penjahat
+c. Helm, sarung tangan, safety shoes, earplug
+d. Perlengkapan yang digunakan setiap saat di lokasi kerja
+
+Alat pelindung tangan harus digunakan pada kondisi berikut, kecuali :
+a. Bekerja dengan peralatan berputar
+b. Bekerja dengan bahan kimia
+c. Bekerja dengan benda tajam
+d. Bekerja pada kondisi panas / dingin yang ekstrim
+
+Apakah yang dimaksud dengan air purifying respirator?
+a. Respirator dimana anda terhubung dengan udara yang dimampatkan ke dalam silinder / tabung
+b. Respirator dimana udara yang digunakan untuk bernapas dimurnikan dengan menggunakan catridge atau canister
+c. Respirator dimana udara yang digunakan merupakan oksigen murni
+d. a dan c benar
+
+LOTO (Lock Out Tag Out)
+21. LOTO diperlukan jika suatu proses kerja memiliki kemungkinan terjadinya :
+a. Pelepasan bahan berbahaya
+b. Pelepasan gas mudah terbakar
+c. Pelepasan energi
+d. a, b dan c benar
+
+Untuk membedakan identitas pada LOTO, label (tag) dibedakan berdasarkan :
+a. Warna
+b. Bentuk
+c. Ukuran
+d. Posisi pemasangan
+
+Sumber energi yang dapat menimbulkan kecelakaan kerja, sehingga memerlukan LOTO dalam pengerjaannya yaitu energi :
+a. Listrik
+b. Mekanik hidrolik
+c. Pneumatic
+d. a, b dan c benar
+
+Bahaya Listrik
+24. Untuk bekerja yang berhubungan dengan listrik, pekerja yang bersangkutan harus:
+a. Terlatih dan berkompeten
+b. Mengerti system control dan memakai PPE yang sesuai
+c. Memahami akibat bahaya yang ditimbulkan listrik
+d. a, b dan c benar
+
+Kebakaran akibat listrik disebakan hal-hal dibawah ini, kecuali:
+a. Beban berlebih
+b. Listrik statis
+c. Sambungan tidak standard
+d. Peralatan sudah tua
+
+Akibat dari Electrical Shock yang diakibatkan oleh sentuhan listrik, baik langsung maupun tidak langsung ditentukan oleh parameter yaitu :
+a. Besar arus listrik
+b. Lamanya tubuh menerima aliran listrik
+c. Besar tegangan
+d. a, b dan c benar
+
+Gas Berbahaya & Beracun
+27. Manakah diantara pernyataan berikut ini yang paling benar
+a. Oksigen merupakan unsur pokok yang sangat diperlukan dalam proses pembakaran. Di udara bebas terdapat oksigen dengan konsentrasi sekitar 18% sedangakan oksigen yang diperlukan untuk proses pembakaran paling sedikit sekitar 10%.
+b. Oksigen, heat, fuel merupakan segitiga api
+c. Gas mudah terbakar mempunyai titik didih < 10 OC pada tekanan 2 atm
+d. Secara fisik bahan bakar dapat berupa, padat, cair dan gas. Namun pada dasarnya semua bahan bakar bisa terbakar harus dalam bentuk fase cair
+
+Gas H2S adalah gas sering kali timbul pada kegiatan pemboran migas. Berikut merupakan ciri-ciri gas H2S, kecuali
+a. Beracun
+b. Berbau busuk
+c. Tanpa warna
+d. Pada konsentrasi rendah berbau wangi
+
+Berikut adalah unsur-unsur pembentuk api, yang biasa disebut segitiga api,
+a. O2, sumber panas, bahan bakar
+b. Titik bakar, titik didih, titik nyala
+c. O2, oksigen, udara
+d. CO2, H2S, CO
+
+Cara Kerja Aman
+30. Bekerja sesuai dengan urutan pelaksanaan pekerjaan termasuk dalam HSE Golden Rules poin :
+a. Peduli pada orang lain dan sekitarnya
+b. Melakukan intervensi terhadap tindakan tidak aman
+c. Patuh pada peraturan, prosedur, dan hukum
+d. Memberikan rekomendasi perbaikan
+
+Setiap pekerja harus dalam kondisi fit to work saat datang ke lokasi kerja. Yang dimaksud dengan fit to work adalah : ... (terpotong di dokumen asli)
+31. Setiap pekerja harus dalam kondisi fit to work saat datang ke lokasi kerja. Yang dimaksud dengan fit to work adalah :
+a. Tekanan darah berada pada range 80 - 130
+b. Telah mengikuti Medical Check Up
+c. Sehat secara fisik dan mental
+d. Jarak pandang 5-10 meter
+
+Kecepatan maksimum kendaraan (Driving Safety) saat melintas di dalam area fasilitas operasi/produksi (dalam pagar) Pertamina EP biasanya dibatasi maksimal :
+a. 40 km/jam
+b. 30 km/jam
+c. 20 km/jam
+d. 10 km/jam
+
+Housekeeping (5R) & Lingkungan
+33. Implementasi housekeeping di lokasi kerja bertujuan untuk :
+a. Menciptakan lokasi kerja yang aman, nyaman dan sehat.
+b. Meningkatkan efisiensi kerja dan mengurangi unsafe condition.
+c. Mengurangi potensi terjadinya pencemaran lingkungan.
+d. Semua jawaban benar (a, b, dan c benar)
+
+Yang BUKAN merupakan bagian dari prinsip 5R (Ringkas, Rapi, Resik, Rawat, Rajin) dalam program housekeeping adalah :
+a. Memilah barang yang masih dipakai dan yang tidak (Ringkas)
+b. Menata barang agar mudah dicari (Rapi)
+c. Membiarkan sampah menumpuk di sudut ruangan (Rombak)
+d. Membersihkan tempat kerja dari debu dan kotoran (Resik)
+
+Limbah B3 (Bahan Berbahaya dan Beracun) seperti majun bekas oli, saringan oli (oil filter), dan bekas bahan kimia harus dibuang ke dalam tempat sampah berwarna :
+a. Hijau
+b. Kuning / Merah
+c. Biru
+d. Hitam
+
+Apabila terjadi tumpahan minyak (oil spill) di area kerja, langkah pertama yang paling tepat dilakukan sesuai prinsip kerja aman adalah :
+a. Langsung menyiram tumpahan dengan air sebanyak-banyaknya
+b. Mengisolasi sumber tumpahan, melokalisir aliran minyak dengan oil absorbent / pasir, dan melaporkan
+c. Membiarkan saja karena nanti akan menguap sendiri
+d. Menyulut api agar minyaknya habis terbakar
+
+Corporate Life Saving Rules (CLSR) & Emergency
+37. Dalam 12 Corporate Life Saving Rules (CLSR) Pertamina, pekerja dilarang keras melakukan hal berikut saat mengemudi, KECUALI :
+a. Menggunakan telepon genggam (HP)
+b. Mengemudi tanpa menggunakan sabuk pengaman (seat belt)
+c. Mengecek kondisi rem dan lampu sebelum berangkat
+d. Mengemudi dalam kondisi mabuk / di bawah pengaruh obat
+
+Apa yang harus Anda lakukan jika mendengar bunyi sirine keadaan darurat (Emergency Alarm) berbunyi terus menerus secara panjang?
+a. Mengemas barang-barang pribadi terlebih dahulu sebelum keluar
+b. Segera hentikan pekerjaan, matikan sumber energi, dan evakuasi menuju Titik Kumpul (Muster Point)
+c. Tetap bekerja karena mungkin itu hanya alarm palsu
+d. Berlari mencari sumber api untuk memadamkannya sendiri
+
+Izin Kerja (SIKA) harus selalu berada di lokasi tempat pekerjaan berlangsung. Kapan SIKA tersebut dinyatakan tidak berlaku?
+a. Jika terjadi pergantian shift pekerja dan tidak diperpanjang
+b. Jika terjadi keadaan darurat (Emergency) di lokasi tersebut
+c. Jika area kerja berubah menjadi tidak aman (unsafe)
+d. Semua jawaban benar (a, b, dan c benar)
+
+Sesuai dengan prosedur Bekerja di Ketinggian (Working at Height), pekerja wajib menggunakan Full Body Harness dengan 100% tie-off apabila bekerja pada ketinggian di atas :
+a. 1,0 meter
+b. 1,8 meter
+c. 0,5 meter
+d. 3,0 meter
+
+🔑 Kunci Jawaban Lengkap (Soal 1 - 40)
+Silakan gunakan ini untuk mengetes diri Anda sendiri:
+
+D (Mengintegrasikan aspek HSE dalam setiap kegiatan)
+
+D (Jawaban a, b, c benar)
+
+C (90 meter - Sesuai jarak aman standar flare)
+
+A (Pengaman yang tidak memadai - Ini kondisi lingkungan)
+
+D (PIC atau bagian yang ditunjuk)
+
+B (Online dashboard dan HSE Golden rules)
+
+A (Job Safety Analysis)
+
+D (Agar jelas memberi hukuman - JSA bukan untuk menghukum)
+
+C (Eliminasi, subtitusi, rekayasa engineering, administrasi, APD)
+
+C (Pemegang ijin - Orang lapangan/kontraktor yang mengerjakan)
+
+B (Pemberi ijin - Pihak Pertamina yang punya aset)
+
+B (Jangka waktu bisa sampai 2 minggu - SIKA biasanya maksimal 1 shift atau beberapa hari sesuai PTW)
+
+C (Citra Perusahaan tercoreng, kriminalitas, kecelakaan lalu lintas)
+
+D (Jawaban a, b, c benar)
+
+A (Saluran pernapasan, Mulut/pencernaan, Kulit)
+
+B (Efek kronis - Paparan lama sedikit demi sedikit)
+
+C (60 menit O.E.L - Bukan standar universal)
+
+A (Melindungi tenaga kerja dari bahaya lingkungan kerja)
+
+A (Bekerja dengan peralatan berputar - Dilarang pakai sarung tangan agar tidak terlilit mesin putar!)
+
+B (Udara dimurnikan dengan cartridge/filter)
+
+C (Pelepasan energi - Listrik, mekanik, tekanan)
+
+A (Warna - Contoh merah untuk bahaya, kuning/putih peringatan)
+
+D (a, b, dan c benar)
+
+A (Terlatih dan berkompeten / tersertifikasi)
+
+D (Peralatan sudah tua - Tua belum tentu terbakar jika standar)
+
+D (a, b, c benar - Arus, lama tubuh tersetrum, dan tegangan)
+
+A (Oksigen unsur pokok...)
+
+D (Pada konsentrasi rendah berbau wangi - H2S berbau telur busuk, BUKAN wangi)
+
+A (O2, sumber panas, bahan bakar)
+
+C (Patuh pada peraturan, prosedur, dan hukum)
+
+C (Sehat secara fisik dan mental)
+
+C atau D (Di area proses rig/operasi biasanya dibatasi sangat pelan, 10-20 km/jam)
+
+D (Semua jawaban benar)
+
+C (Membiarkan sampah menumpuk)
+
+B (Kuning atau merah untuk limbah B3/berbahaya)
+
+B (Isolasi, lokalisir, laporkan)
+
+C (Mengecek kondisi rem - Ini justru tindakan yang diwajibkan)
+
+B (Hentikan kerja, evakuasi ke Muster Point)
+
+D (Semua jawaban benar)
+
+B (1,8 meter - Standar internasional OSHA/Migas untuk wajib pakai harness jatuh)
+
+
+
+SOAL UJIAN TES TERTULIS
+
+Lampiran 10 – TKO No. B-004/PG0400/2019-S0 Revisi Ke-0
+
+PETUNJUK
+
+Perhatikan petunjuk pengisian lembar jawaban sebagai berikut:
+
+Beri tanda X (silang) pada lembar jawaban yang menurut Anda benar.
+
+Lembar soal tidak boleh dicoret-coret.
+
+Dilarang mencontek.
+
+KERJAKANLAH SOAL-SOAL BERIKUT INI SESUAI PETUNJUK
+
+1. Yang menjadi target dalam kebijakan HSE di Pertamina Gas adalah:
+a. Diperbolehkan terjadi kecelakaan
+b. Diperbolehkan tidak menggunakan APD
+c. Nihil Insiden
+d. Semua jawaban benar
+
+2. Undang-undang No. 1 Tahun 1970 mengatur tentang:
+a. Transportasi
+b. Keselamatan Kerja
+c. Komunikasi
+d. Ketenagakerjaan
+
+3. Salah satu persyaratan keselamatan kerja yang harus dipenuhi dalam memulai suatu pekerjaan adalah:
+a. Niat dan doa
+b. Upah tetap
+c. Job Safety Analysis
+d. Jumlah Pekerja
+
+4. Berikut adalah HSE Golden Rules Pertamina, kecuali:
+a. Patuh
+b. Peduli
+c. Instropeksi
+d. Intervensi
+
+5. Berapa jumlah elemen Corporate Life Saving Rules Pertamina (CLSR):
+a. 10
+b. 11
+c. 12
+d. 13
+
+6. Yang tidak termasuk dalam elemen Corporate Live Saving Rules (CLSR) antara lain:
+a. Permit To Work
+b. Isolation
+c. Safe Zone Positon
+d. Hazard Analysis
+
+7. Persyaratan Penerbitan Surat Ijin Kerja Aman (SIKA) di Pertamina diantaranya, kecuali:
+a. HSE Plan / Job Safety Analysis (JSA)
+b. Identitas seluruh pekerja
+c. Surat Keterangan Catatan Kepolisian (SKCK)
+d. Hasil Medical Check Up / Surat Keterangan Sehat
+
+8. Batas ketinggian minimal yang menjadi persyaratan dalam bekerja di ketinggian adalah:
+a. 70 cm
+b. 1.4 m
+c. 1.8 m
+d. 2.1 m
+
+9. Alat pelindung diri yang diperlukan saat bekerja di ketinggian adalah sebagai berikut, kecuali:
+a. Tali rafia
+b. Full Body Harness Double Hook & Tali pengaman
+c. Sepatu keselamatan
+d. Helm kerja
+
+10. Potensi bahaya yang mungkin terjadi pada saat penggunaan scaffolding (perancah) antara lain, kecuali:
+a. Bahaya dari orang dan kendaraan yang melintas ke area kerja scaffolding
+b. Bahaya terjatuh dari ketinggian
+c. Bahaya dekat jalur listrik
+d. Semua jawaban salah
+
+11. Di bawah ini yang tidak termasuk alat-alat keselamatan kerja dalam las listrik adalah:
+a. Apron
+b. Kaos bolong
+c. Topeng / kacamata las
+d. Sarung Tangan las
+
+12. Hal-hal yang harus dipatuhi pada saat melakukan instalasi listrik, diantaranya:
+a. Sumber listrik tidak dimatikan terlebih dahulu
+b. Menggunakan kabel yang tidak standar
+c. Tidak menggunakan alas kaki untuk mencegah tersengat listrik
+d. Menggunakan APD yang dibutuhkan untuk instalasi listrik dan menerapkan prinsip isolasi energi
+
+13. Yang harus dipatuhi sebagai Driver kendaraan perusahaan adalah, kecuali:
+a. Tidak melebihi batas kecepatan maksimum kendaraan sesuai peraturan yang berlaku.
+b. Melakukan pemeriksaan kelengkapan dan kelayakan fungsi kendaraan sebelum memulai berkendara (roda, alat kemudi, seat belt, rem, lampu, spion, klakson, speedometer, dll).
+c. Menggunakan Handphone dan alat lainnya saat berkendara
+d. Selalu menggunakan Sabuk Keselamatan saat berada di dalam kendaraan.
+
+14. Sumber bahaya yang dapat menimbulkan kecelakaan kerja untuk jenis pekerjaan mekanik adalah:
+a. Bagian benda yang bergerak
+b. Kelistrikan
+c. Saklar
+d. Jumlah pekerja
+
+15. APD untuk melindungi telinga dari suara bising / kebisingan adalah:
+a. Safety helmet ( Helm )
+b. Respirator ( Masker )
+c. Earmuff / Ear Plug ( penyumbat telinga )
+d. Googgles ( kacamata )
+
+16. Yang harus dilakukan untuk memastikan kehandalan alat / fasilitas produksi adalah, kecuali:
+a. Membiarkan sertifikat layak pakai alat / fasilitas yang sudah kadaluarsa.
+b. Memastikan adanya sertifikat layak pakai / masa berlaku.
+c. Tidak ditemukan cacat fisik yang telihat. Komunikasikan kepada pengawas jika ditemukan kejanggalan / kondisi abnormal
+
+17. Yang dapat dilakukan agar terhindar dari bahaya terpeleset / tersandung / terjatuh dari tangga adalah:
+a. Perhatikan lubang jalan maupun cekungan jalan / selokan ketika melintas
+b. Batasi beban bawaan
+c. Pastikan area kerja selalu dalam keadaan kotor
+d. Jangan membiarkan kabel ataupun colokan listrik menghalangi jalan
+
+18. Berikut adalah syarat lokasi bongkar muat truk barang, kecuali:
+a. Di daerah yang jauh dari lalu lintas
+b. Di daerah yang dekat dengan keramaian orang
+c. Tidak dilakukan di daerah yang curam
+d. Tidak membawa muatan yang berlebihan
+
+19. Potensi bahaya pada alat angkut diantaranya, kecuali:
+a. Syarat keselamatan kerja terpenuhi
+b. Peralatan yang tidak standar
+c. Pengawasan peralatan kurang
+d. Sosialisasi peraturan dan perundang-undangan kurang
+
+20. Yang harus dilakukan saat parkir atau meninggalkan forklift, kecuali:
+a. Memarkir dan meninggalkan forklift di area yang aman
+b. Mematikan mesin
+c. Memastikan forklift sudah dipanasi
+d. Pasang rem tangan dan atur pengendali arah pada posisi netral
+
+21. Apabila terjadi suatu insiden / kecelakaan kerja maka anda harus melaporkan:
+a. Setelah melakukan tindakan perbaikan terhadap kecelakaan tersebut
+b. Segera setelah mengetahui terjadinya kecelakaan tersebut
+c. Pada setiap akhir tahun
+d. Pada akhir bulan
+
+22. Tujuan P3K adalah sebagai berikut, kecuali:
+a. Memperlama proses penyembuhan
+b. Mencegah maut atau memperpanjang harapan hidup
+c. Mencegah cacat dan infeksi
+d. Mengurangi kesakitan datau bahaya yang lebih buruk
+
+23. PEKA adalah singkatan dari:
+a. Pengamatan Keselamatan dan Lingkungan Kerja
+b. Pengamatan Kesehatan dan Lingkungan Kerja
+c. Penerapan Kesehatan dan Lingkungan Kerja
+d. Penerapan Kesehatan dan Lingkungan Kerja
+
+24. Apabila terjadi gempa bumi maka yang harus dilakukan, kecuali:
+a. Berlindung pada tempat yang aman
+b. Menggunakan lift
+c. Menjauhi dinding kaca
+d. Melindungi kepala
+
+25. Berikut ini adalah salah satu prosedur evakuasi yang benar adalah:
+a. Berlari cepat menuju pintu keluar
+b. Memakai sepatu hak tinggi
+c. Mengunci pintu
+d. Jangan berbalik arah karena akan bertabrakan dengan orang-orang di belakang anda
+
+26. Kepanjangan dari JSA adalah:
+a. Job System Audit
+b. Job Safety Analysis
+c. Job Secret Analysis
+d. Job Security Assessment
+
+27. Salah satu contoh ruang tertutup (confined space) adalah, kecuali:
+a. Ruang rapat
+b. Tanki
+c. Gorong-gorong
+d. Atap ducting
+
+28. Kepanjangan dari 5R adalah:
+a. Risk Assessment, RAW Material, Round Area, Road Safety, Real Safety
+b. Ramai, Ringkas, Rindang, Rugi, Rahasia
+c. Resik, Rapi, Rawat, Rajin, Ringkas.
+d. Ringkas, Rajin, Rusuh, Ramai, Relokasi
+
+29. Lokasi/titik berkumpul apabila terjadi keadaan darurat disebut:
+a. Assembly / Muster Point
+b. Meeting Point
+c. Emergency Point
+d. Rest Area
+
+30. Apa yang dimaksud dengan hazard (bahaya) adalah:
+a. Suatu obyek dimana tedapat energi, zat atau kondisi kerja yang potensial dapat mengancam keselamatan.
+b. Suatu obyek dimana mengancam harga diri dalam bekerja
+c. Suatu peristiwa dimana pikiran & tindakan tidak singkron yang menyebabkan bahaya
+d. Lampu sein yang berkedip secara bersamaan
+
+31. First Aid P3K adalah:
+a. Memberikan pertolongan setelah terjadi banyak pendarahan
+b. Memberikan pertolongan pertama pada korban kecelakaan dengan cepat dan tepat
+c. Memberikan kenyamanan
+d. Memberikan pertolongan kepada korban yang telah dirujuk ke RS
+
+32. Maksud dari Fit to Work adalah:
+a. Sehat dan siap bekerja
+b. Patuh terhadap peraturan
+c. Mengerjakan setiap pekerjaan
+d. Patuh pada atasan
+
+33. APD adalah singkatan dari:
+a. Alat Pas Dipakai
+b. Alat Pelindung Diri
+c. Alat Punya Dia
+d. Alat Pelengkap Diri
+
+34. Kecelakaan adalah:
+a. Sumber bahaya potensial yang dapat menyebabkan kecelakaan/kerusakan
+b. Tingkat bahaya dari suatu kondisi bilamana terjadi accident
+c. Suatu kondisi sumber bahaya telah teridentifikasi dan telah dikendalikan ke tingkat yang memadai (aman/safe)
+d. Kejadian yang tidak dikehendaki dan tidak diduga/tiba-tiba yang dapat menimbulkan korban manusia dan harta benda
+
+35. Faktor-faktor penyebab terjadinya kecelakaan adalah:
+a. Tenaga kerja, tenaga medis dan bahan
+b. Alat, bahan dan perusahaan
+c. Alat, bahan dan manusia
+d. Bahan, tenaga kerja dan perusahaan
+
+KUNCI JAWABAN
+
+1. C
+
+11. B
+
+21. B
+
+31. B
+
+2. B
+
+12. D
+
+22. A
+
+32. A
+
+3. C
+
+13. C
+
+23. A
+
+33. B
+
+4. C
+
+14. A
+
+24. B
+
+34. D
+
+5. B
+
+15. C
+
+25. D
+
+35. C
+
+6. D
+
+16. A
+
+26. B
+
+
+
+7. C
+
+17. C
+
+27. A
+
+
+
+8. C
+
+18. B
+
+28. C
+
+
+
+9. A
+
+19. A
+
+29. A
+
+
+
+10. D
+
+20. C
+
+30. A
+
+
+SOAL HSSE DEMO ROOM
+
+PT PERTAMINA EP ASSET 2
+
+1. Undang-undang terkait Keselamatan Kerja adalah...
+a. UU No 1 tahun 1970
+b. UU No 1 tahun 1990
+c. UU No 7 tahun 1910
+d. UU No 1 tahun 2009
+
+2. Kepanjangan dari PEKA adalah...
+a. Pengamatan Kesehatan Kerja
+b. Pengamatan Kecelakaan Kerja
+c. Pengamatan Keselamatan Kerja
+d. Pengamatan Kejadian Kerja
+
+3. PT Pertamina EP Asset 2 sudah mengaplikasikan system Vehicle Tracking System (VTS) pada kendaraan Perusahaan, dimana setting aplikasi pada kecepatan diatur sebagai berikut:
+
+Kecepatan di lokasi sumur/SP/SPU/SKG dan Pemboran adalah maksimum 20 km/jam
+
+Kecepatan di dalam Komplek Perumahan adalah maksimum ... km/jam
+
+Kecepatan di jalan berdebu maksimum 40 km/jam
+
+Kecepatan di jalan raya dalam kota maskimum 50 km/jam
+
+Kecepatan di jalan utama/jalan lintas/kota adalah maksimum 80 km/jam
+Dari data diatas, Berapa kecepatan di dalam Komplek Perumahan ?
+a. Maksimum 35 km/jam
+b. Maksimum 30 km/jam
+c. Maksimum 25 km/jam
+d. Maksimum 10 km/jam
+
+4. Setiap pekerja harus dalam kondisi fit to work saat datang ke lokasi kerja. Yang dimaksud dengan fit to work adalah :
+a. Tekanan darah berada pada range 80 - 130
+b. Telah mengikuti Medical Check Up
+c. Sehat secara fisik dan mental
+d. Jarak pandang 5-10 meter
+
+5. Lembar SIKA yang udah di tanda tangani dan diserahkan ke HSE pada lembar warna apa?
+a. Putih
+b. Kuning
+c. Merah
+d. Biru/Hijau
+
+6. Di bawah ini adalah ciri-ciri SIKA Umum, kecuali...
+a. Jumlah pekerjaan bisa lebih dari 2
+b. Jangka waktu pekerjaan maksimal 7 hari
+c. Jangka waktu bisa sampai 2 minggu
+d. Jumlah pekerjaan > 1
+
+7. Pengawas pekerjaan dari dalam atau luar fungsi di lingkungan PT. Pertamina EP, di dalam formulir SIKA disebut ?
+a. Pemberi ijin
+b. Pelaksana Pekerjaan
+c. Pemegang ijin
+d. Atasan pemegang ijin
+
+8. Kapan waktunya pemberlakukan peraturan system override?
+a. Saat ada pekerjaan yang memerlukan personil yang banyak
+b. Saat ada kejadian emergency kebakaran terjadi
+c. Saat Asset Holder melakukan pekerjaan Rutin
+d. Saat Asset Holder melakukan Bypass Critical Protection (BCP)
+
+9. Berikut merupakan hierarki (dari yang tertinggi) pengendalian resiko bahaya berdasar OHSAS 18001 : 2008, yaitu :
+a. Adminstrasi, eliminasi, subtitusi, rekayasa engineering, APD
+b. APD, rekayasa engineering, subtitusi, adminstrasi, eliminasi
+c. Eliminasi, subtitusi, rekayasa engineering, adminstrasi, APD
+d. Rekayasa engineering, admnistrasi, APD, eliminasi, subtitusi
+
+10. Apakah yang dimaksud dengan Alat Pelindung Diri?
+a. Perlengkapan yang digunakan untuk melindungi pekerja dari penjahat
+b. Helm, sarung tangan, safety shoes, earplug
+c. Perlengkapan yang digunakan untuk melindungi tenaga kerja dari bahaya lingkungan kerja
+d. Perlengkapan yang digunakan setiap saat di lokasi kerja
+
+11. Berapakah nilai ambang batas kebisingan dengan waktu paparan 8 jam per hari?
+a. 65 dBA
+b. 75 dBA
+c. 85 dBA
+d. 95 dBA
+
+12. Alat pelindung tangan harus digunakan pada kondisi berikut, kecuali...
+a. Bekerja dengan bahan kimia
+b. Bekerja dengan peralatan berputar
+c. Bekerja dengan benda tajam
+d. Bekerja pada kondisi panas / dingin yang ekstrim
+
+13. Alat Pelindung Diri yang berfungsi mencegah terjatuh dan menahan korban bergantung diatas ialah...
+a. Topi/Helm
+b. Self Contained Breathing Apparatus (SCBA)
+c. Sepatu Safety
+d. Full body harness
+
+14. Alat pelindung pernapasan digunakan saat bekerja di ruang terbatas...
+a. Full body harness
+b. Self Contained Breathing Apparatus (SCBA)
+c. Masker kain
+d. Ear muff
+
+15. Gas H2S adalah gas sering kali timbul pada kegiatan pemboran migas. Berikut merupakan ciri-ciri gas H2S, kecuali...
+a. Beracun
+b. Berbau busuk
+c. Tanpa warna
+d. Pada konsentrasi rendah berbau wangi
+
+16. Berikut Yang Termasuk didalam simbol warna di MSDS, Kecuali..
+a. Merah
+b. Biru
+c. Hijau
+d. Kuning
+
+17. Pemakaian Psikotropika, Narkotika dan Zat aditif untuk diri sendiri tanpa indikasi dan tidak bertujuan untuk pengobatan adalah penyalahgunaan zat (drug abuse). Bentuk dari penyalahgunaan yang dilarang oleh Pertamina EP adalah:
+a. Menggunakan dan Memiliki psikotropika
+b. Memiliki Psikotropika namun tidak menggunakannya
+c. Menggunakan, Memiliki & Mendistribusikan psikotropika
+d. Jawaban a, b, dan c benar
+
+18. Untuk bekerja yang berhubungan dengan listrik, pekerja yang bersangkutan harus...
+a. Terlatih dan berkompeten
+b. Mengerti system control dan memakai PPE yang sesuai
+c. Memahami akibat bahaya yang ditimbulkan listrik
+d. a, b dan c benar
+
+19. Berapakah suhu nyaman sesuai Panduan Umum HSE PT Pertamina EP:
+a. Di bawah 32°C
+b. Di atas 32°C
+c. 22°C - 26°C
+d. Jawaban di atas salah semua
+
+20. Sesuai Peraturan Pemerintah 101 Tahun 2014 Limbah Bahan Berbahaya dan Beracun (B-3) maksimum penyimpanan di Tempat Penyimpanan Sementara (TPS) adalah :
+a. Selama 100 Hari Kalender
+b. Selama 90 Hari Kalender
+c. Selama 30 Hari Kalender
+d. Selama 60 Hari Kalender
+
+21. Melalui jalur apa sajakah racun bahan kimia dapat masuk ke dalam tubuh manusia ?
+a. Saluran pencernaan, saluran pernapasan, saluran pendengaran
+b. Saluran pernapasan, Mulut, Kulit
+c. Radiasi, Saluran pernapasan, Kulit
+d. Makan, Sentuhan, Kontak Mata
+
+22. Berikut adalah jenis batas pemaparan, kecuali :
+a. TLV-TWA
+b. ISO-OHSAS
+c. TLV-STEL
+d. TLV-Ceiling
+
+23. Berikut adalah unsur-unsur pembentuk api, yang biasa disebut segitiga api:
+a. Sumber panas, bahan bakar, oksigen
+b. Titik bakar, titik didih, titik nyala
+c. O2/oksigen, udara
+d. CO2, H2S, CO
+
+24. Perancah (scaffold) adalah struktur semi permanen/konstruksi yang menyediakan jalan masuk/sarana kerja, yang digunakan untuk menyangga material atau pemasangan peralatan lain. Jika orang berlalu lalang di bawah scaffold, scaffold harus dilengkapi dengan jaring berlubang di antara papan dan pagar pengaman. Pada ketinggian berapa perancah (scaffold) digunakan dan berapa diameter maks lubang pada jaring ?
+a. Mulai ketinggian 1,5 meter & 1,3 inch
+b. Mulai ketinggian 1,6 meter & 1,2 inch
+c. Mulai ketinggian 2,5 meter & 1,3 inch
+d. Mulai ketinggian 1,8 meter & 1,2 inch
+
+25. Jarak aman Sumur pemboran dengan flare stack dan ROW Pipeline adalah :
+a. 70 meter & 6 meter (KUPAK)
+b. 80 meter & 12 meter (KUPAK)
+c. 90 meter & 12 meter (KUPAK)
+d. 100 meter & 6 meter (KUPAK)
+
+26. Yang bukan termasuk isi dari HSE Golden Rules adalah...
+a. Patuh
+b. Intervensi
+c. Integritas
+d. Peduli
+
+27. Singkatan dari LOTO adalah...
+a. Lock Out Tagline Out
+b. Locker Out Tag Out
+c. Lock Out Tag Out
+d. Locker Out Tagline Out
+
+28. LOTO diperlukan jika suatu proses kerja memiliki kemungkinan terjadinya :
+a. Pelepasan bahan berbahaya
+b. Pelepasan gas mudah terbakar
+c. Pelepasan energi
+d. a, b dan c benar
+
+29. Berikut yang termasuk pengaplikasian Warna LOTO Operator-Confined Space-Mekanik adalah...
+a. Biru-Putih-Kuning
+b. Kuning-Merah-Biru
+c. Kuning-Biru-Putih
+d. Kuning-Putih-Biru
+
+30. Sumber energi yang dapat menimbulkan kecelakaan kerja, sehingga memerlukan LOTO dalam pengerjaannya yaitu energi:
+a. Listrik
+b. Mekanik
+c. Hidrolik & pneumatic
+d. a, b dan c benar
+
+31. Dalam penggalian, ada berapa jenis type tanah ?
+a. 2 Type Tanah antara lain: Tanah Lempung dan Tanah Kerikil
+b. 3 Type Tanah antara lain: Tanah Type A (Tanah Lempung), Type B (Tanah Liat), Type C (Tanah Kerikil)
+c. 1 Type Tanah antara lain: Tanah Permukaan
+d. 4 Type Tanah antara lain: Tanah Lempung, Tanah Kerikil, Tanah Liat, Tanah Permukaan
+
+32. Yang masuk dalam category penggalian dan memerlukan perencanaan / mitigasi adalah minimal kedalaman ?
+a. 1,5 meter
+b. 1,2 meter
+c. 1,8 meter
+d. 2,0 meter
+
+33. Implementasi housekeeping di lokasi kerja bertujuan untuk :
+a. Menciptakan lokasi kerja yang aman, nyaman dan sehat.
+b. Meningkatkan efisiensi kerja dan mengurangi unsafe condition
+c. Mengurangi potensi terjadinya pencemaran lingkungan
+d. Semua jawaban benar
+
+34. Yang termasuk 5R di dalam Housekeeping, kecuali..
+a. Rajin
+b. Rapi
+c. Resik
+d. Ramai / Rusuh
+
+REFERENSI JAWABAN (Berdasarkan Tanda di Dokumen Asli)
+
+Berikut adalah beberapa jawaban yang terindikasi benar berdasarkan dokumen (tidak semua soal memiliki tanda):
+
+1. A (UU No 1 tahun 1970)
+
+2. C (Pengamatan Keselamatan Kerja)
+
+4. C (Sehat secara fisik dan mental)
+
+8. D (Saat Asset Holder melakukan Bypass Critical Protection)
+
+9. C (Eliminasi, subtitusi, rekayasa engineering, adminstrasi, APD)
+
+10. C (Perlengkapan yang digunakan untuk melindungi tenaga kerja...)
+
+11. C (85 dBA)
+
+12. B (Bekerja dengan peralatan berputar - sarung tangan berpotensi tersangkut)
+
+13. D (Full body harness)
+
+14. B (Self Contained Breathing Apparatus)
+
+15. D (Pada konsentrasi rendah berbau wangi)
+
+16. C (Hijau)
+
+17. D (Jawaban a, b, dan c benar)
+
+18. D (a, b dan c benar)
+
+20. B (Selama 90 Hari Kalender)
+
+21. B (Saluran pernapasan, Mulut, Kulit)
+
+24. D (Mulai ketinggian 1,8 meter & 1,2 inch)
+
+25. C (90 meter & 12 meter)
+
+27. C (Lock Out Tag Out)
+
+28. D (a, b dan c benar)
+
+29. B (Kuning-Merah-Biru)
+
+31. B (3 Type Tanah antara lain: Type A, B, C)
+
+32. B (1,2 meter)
+
+33. D (Semua jawaban benar)
+
+
+POST TEST BASIC SAFETY TRAINING
+
+HSSE DEMO ROOM PERTAMINA ZONA 4
+
+1. Tidak dapat bekerja untuk melakukan pekerjaan sesuai jabatan/posisinya dan/atau posisi siapapun, dalam perawatan di rumah sakit, atau dalam status izin sakit (sick leave) adalah termasuk kategori?
+A. P1
+B. P2-P5
+C. P6
+D. P7
+
+2. PT Pertamina EP Asset 2 sudah menerapkan VTS (Vehicle Tracking System) pada setiap kendaraan perusahaan, dimana setting aplikasi pada kecepatan telah diatur. Di bawah ini, pilihlah aturan kecepatan berkendara yang menurut anda benar sesuai lokasi!
+A. Kecepatan di Lokasi sumur/SP/SPU/SKG maks. 35 km/jam
+B. Kecepatan di Jalan Utama/Jalan Lintas maks. 90 km/jam
+C. Kecepatan di Komplek Perumahan maks. 25 km/jam
+D. Kecepatan di Jalan Tol. 120 km/jam
+
+3. Dibawah ini yang merupakan ciri SIKA Khusus adalah..
+A. Jangka waktu pekerjaan Maksimal 7 Hari
+B. Jangka waktu Pekerjaan bisa sampai 2 minggu
+C. Jumlah Pekerjaan lebih dari 1
+D. Jika masa berlaku habis SIKA tidak bisa di perpanjang
+
+4. Pengurus wajib memeriksakan kesehatan, kondisi mental dan kemampuan fisik dari tenaga kerja yang akan diterima maupun yang akan dipindahkan. Pengurus wajib memeriksakan secara berkala kepada Dokter yang ditunjuk. Norma pengujian kesehatan diatur dalam peraturan perundangan. Ayat diatas adalah isi dari undang-undang No. 1 tahun 1970 tentang Keselamatan kerja:
+A. BAB VII Kecelakaan – Pasal 12
+B. BAB IV Pengawasan – Pasal 8
+C. BAB V Pembinaan – Pasal 9
+D. BAB VII Kecelakaan – Pasal 11
+
+5. Menurut Standar Ketentuan Umum Pemadaman api & Kebakaran (KUPAK), Jarak Gudang Bahan Peledak (Handak) harus terletak pada jarak ….. Meter dari bangunan lain atau rumah kediaman orang lain.
+A. 300 Meter
+B. 100 Meter
+C. 400 Meter
+D. 200 Meter
+
+6. Sebelum melakukan pekerjaan, pekerja wajib melakukan Fit To Task sebelum bekerja. Apa saja yang diperiksa saat melakukan Fit To Task?
+A. Suhu tubuh, berat badan, tinggi badan
+B. Detak jantung, cek darah, cek buta warna
+C. Detak jantung, tekanan darah, berat badan, pernapasan
+D. Suhu tubuh, detak jantung, tekanan darah, SPO2
+
+7. Berikut ini merupakan lembar kerja untuk pekerjaan? (Mengacu pada gambar di dokumen asli)
+A. Bekerja di ketinggian
+B. Pekerjaan Panas
+C. Bekerja diruang terbatas / confine space
+D. Bekerja di penggalian
+
+8. Lembar SIKA yang berwarna Merah diserahkan kepada...
+A. Pemberi Ijin / Asset Holder
+B. Peminta Ijin
+C. HSSE
+D. Pemegang Ijin
+
+9. Hal berikut ini yang bukan termasuk kategori Unsafe Action adalah:
+A. Memacu kendaraan pada kecepatan yang tidak sesuai
+B. Tidak ada Sign Peringatan Kebisingan di area Genset
+C. Tidak menggunakan Fullbody Harnest saat bekerja di ketinggian
+D. Masuk kedalam tanki tanpa alat bantu pernapasan (SCBA)
+
+10. Untuk masuk ke Fasilitas Produksi ataupun Fasilitas Penunjang wajib menggunakan kendaraan berbahan bakar solar/diesel, di atas adalah termasuk contoh penerapan Hierarki Pengendalian Resiko, yaitu:
+A. Administrasi
+B. Subtitusi
+C. Mitigasi
+D. Eliminasi
+
+11. Berikut ini adalah Hierarki Pengendalian Resiko berdasarkan OHSAS 18001:2008. Manakah urutan yang benar (dari yang tertinggi)?
+A. Eliminasi, Subtitusi, Administrasi, Rekayasa Engineering, APD
+B. Subtitusi, Eliminasi, Administrasi, Rekayasa Engineering, APD
+C. Eliminasi, Subtitusi, Rekayasa Engineering, Adminstrasi, APD
+D. Administrasi, Eliminasi, Subtitusi, Rekayasa Engineering, APD
+
+12. Di bawah ini yang bukan merupakan HSE Golden Rules adalah?
+A. Patuh
+B. Peduli
+C. Intervensi
+D. Integrity
+
+13. Berikut ini adalah APD perlindungan muka dan mata, kecuali:
+A. Safety Glasses
+B. Face Shields
+C. Goggles
+D. Safety Gloves
+
+14. Berapakah nilai ambang batas kebisingan dengan waktu pemaparan 8 jam per hari?
+A. 65 dB
+B. 75 dB
+C. 85 dB
+D. 83 dB
+
+15. Bekerja sesuai dengan urutan pelaksanaan pekerjaan termasuk dalam HSE Golden Rules poin:
+A. Patuh pada peraturan, prosedur, dan hukum
+B. Peduli pada orang lain dan sekitarnya
+C. Melakukan Intervensi terhadap tindakan tidak aman
+D. Menjaga Integritas Fasilitas/ Asset Perusahaan
+
+16. Apakah yang menjadi ketentuan penguncian LOTO (Lock Out Tag Out)?
+A. Pemasang harus memegang anak kuncinya
+B. Pemilik asset perlu memiliki anak kunci
+C. Gembok dan anak kunci harus dimiliki oleh beberapa orang
+D. Alat pengunci dapat dibuka oleh siapapun
+
+17. Pengaturan Shift Kerja termasuk kategori dalam Hirarki Pengendalian Risiko?
+A. Subtitusi
+B. Rekayasa Enjinering
+C. Administrasi
+D. Eliminasi
+
+18. Element Nomer 5 Dalam System Management HSSE adalah:
+A. Perencanaan dan Prosedur
+B. Kebijakan dan Sasaran
+C. Manajemen Risiko
+D. Implementasi dan pengendalian Operasional
+
+19. Telah melakukan upaya pengelolaan Lingkungan yang dipersyaratkan sesuai dengan ketentuan & atau peraturan perundang-undangan yang berlaku. Adalah peringkat PROPER:
+A. PROPER HIJAU
+B. PROPER BIRU
+C. PROPER EMAS
+D. PROPER MERAH
+
+20. Dalam Audit SUPREME penyajian nilai harus disajikan dengan warna (Color Type). Dibawah ini yang bukan termasuk warna valid (Valid Colour) adalah:
+A. Not Tolerable (≥60% to 70%)
+B. Tolerable / Adequate (≥70% to 80%)
+C. Not Accepable (< 60%)
+D. Accepable / Fully Adequate (≥80% to 90%)
+
+21. Color coding adalah bentuk labelling hasil inspeksi (visual, NDT) pada suatu periode (setiap 6 bulan). Warna Kuning adalah:
+A. Hijau
+B. Kuning
+C. Biru
+D. Merah
+
+22. Penggunaan Gas Testing pada pekerjaan Confined Space dilakukan saat:
+A. Sebelum aktivitas
+B. Berkala sebelum, dan selama aktivitas di Confined Space
+C. Pada saat aktivitas
+D. Sesudah aktivitas
+
+23. Gambar di samping merupakan Tabel? …. (Mengacu pada gambar NFPA Diamond di dokumen asli)
+A. NFPA 702
+B. NFPA 704
+C. API RP 54
+D. Per. Men. LH 3/2008
+
+24. Warna Biru pada Label MSDS adalah untuk mengidentifikasi bahaya?
+A. Bahaya Terbakar
+B. Bahaya Reaktivitas
+C. Bahaya yang bersifat Khusus
+D. Bahaya Kesehatan
+
+25. Oli yang terbakar adalah contoh kebakaran tipe?
+A. Kebakaran tipe A
+B. Kebakaran Tipe D
+C. Kebakaran Tipe C
+D. Kebakaran Tipe B
+
+26. Berikut salah satu contoh Critical Protection adalah?
+A. SCBA
+B. ESD System
+C. Lock Out Tag Out
+D. Personal Gas Detector
+
+27. Suatu sistem yang dirancang untuk mencegah seseorang jatuh, berupa control engineering seperti pagar atau rail guard, adalah pengertian dari:
+A. Fall Protection
+B. 100 Percent Tie Off
+C. Fall Prevention
+D. Fall-Arrest System
+
+28. Jarak aman dari Pagar Lokasi Sumur Produksi ke Jalan Umum (Public Road) sesuai Dasar Hukum Jarak Aman adalah?
+A. 50 Meter
+B. 30 Meter
+C. 20 Meter
+D. 25 Meter
+
+29. Apa nama alat Pelindung diri di atas? (Mengacu pada gambar di dokumen asli)
+A. Lanyard
+B. Webbing Sling
+C. Full Body Harness
+D. Tali Safety
+
+30. APAR adalah Alat Pemadam Api Ringan berbentuk tabung yang berisi bahan-bahan tertentu untuk memadamkan api. Berikut isi jenis-jenis APAR, Kecuali...
+A. CO₂
+B. Dry Powder
+C. Hydrogen
+D. Foam
+
+31. Standard Internasional mengenai Sistem Manajemen Lingkungan:
+A. OHSAS 18001
+B. ISO 14001 : 2015
+C. ISO 9001 : 2015
+D. ISO 14001 : 2016
+
+32. Kepanjangan dari LOTO adalah?
+A. Lock Out Tagline Out
+B. Lock Out Tag Out
+C. Log Out Tag Out
+D. Log Out Tagline Out
+
+33. Apa kepanjangan PLO yang terkait dengan Asset Integrity?
+A. Prevention Loss Operation
+B. Persetujuan Layak Operasi
+C. Peraturan Lama Operasi
+D. Perijinan Layak Operasi
+
+34. Urutan yang benar dalam pengaplikasian Warna LOTO sesuai fungsi; Mekanik - Electrikal & Instrument - Confined Space – Asset Holder Adalah:
+A. Merah – Putih – Kuning - Biru
+B. Merah – Biru – Kuning – Putih
+C. Biru – Putih – Merah - Kuning
+D. Biru – Merah – Putih - Kuning
+
+35. Gambar di samping adalah Logo Corporate Life saving Rules (CLSR) untuk: (Mengacu pada ikon di dokumen asli)
+A. Asset Integrity
+B. Confined Space
+C. Isolation
+D. Permit To Work
+
+36. Penggalian (Excavation) memerlukan perencanaan / Mitigasi mulai dikedalaman minimal?
+A. 1,5 Meter
+B. 1,8 Meter
+C. 1,2 Meter
+D. 2 Meter
+
+37. Sumber energi yang dapat menimbulkan kecelakaan kerja, sehingga memerlukan LOTO dalam pengerjaannya yaitu energi:
+A. Listrik
+B. Mekanik Hidrolik
+C. Pnuematic
+D. A, B dan C Benar
+
+38. Saat terjadi keadaan darurat di Lapangan/Field tim manakah yang melakukan Langkah taktis di Lokasi agar Insiden dapat secara langsung ditanggulangi..?
+A. CMT (Crisis Management Team)
+B. BST (Business Support Team)
+C. IMT (Incident Management Team)
+D. SERT (Site Emergency Response Team)
+
+39. Safety Shower / Eye Wash harus diletakkan berapa meter dari potensi bahaya?
+A. 5 – 15 meter
+B. 10 – 25 meter
+C. 3 – 15 meter
+D. 7 – 15 meter
+
+40. Corporate Life Saving Rules (CLSR) yang di gunakan oleh Subholding Upstream PHE yaitu 15 CLSR. 12 CLSR dari Pertamina Persero (Corporate) & 3 CLSR tambahan dari PHE. Dibawah ini yang merupakan 3 Elemen CLSR tambahan dari PHE adalah:
+A. Ground Disturbance, Asset Integrity & Safe Zone Position
+B. Isolation, Tools & Equipment, & Management of Change
+C. Ground Disturbance, Personal Flotation Device & System Override
+D. Hot Work, Ground Disturbance & Management of Change
+
+TEST SELESAI
+TERIMA KASIH
+“KEEP SAFE”

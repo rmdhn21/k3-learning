@@ -283,3 +283,36 @@ document.addEventListener('DOMContentLoaded', () => {
   updateProgress();
   updateNav();
 });
+
+// Global function for Chapter 15 Interactive Quiz
+window.checkAnswer = function (btn, isCorrect, explanation, correctExt) {
+  let parent = btn.parentElement;
+  let feedback = parent.nextElementSibling;
+  let buttons = parent.querySelectorAll('.opt-btn');
+
+  // disable all options in this group
+  buttons.forEach(b => {
+    b.style.pointerEvents = 'none';
+    b.style.opacity = '0.6';
+  });
+
+  btn.style.opacity = '1';
+
+  if (isCorrect) {
+    btn.style.background = 'rgba(34, 197, 94, 0.2)';
+    btn.style.borderColor = '#22c55e';
+    feedback.style.background = 'rgba(34, 197, 94, 0.1)';
+    feedback.style.borderLeft = '4px solid #22c55e';
+    feedback.style.color = '#22c55e';
+    feedback.innerHTML = '<strong>✅ TEPAT SEKALI!</strong><br><span style="color:var(--text-muted);">' + explanation + '</span>';
+  } else {
+    btn.style.background = 'rgba(239, 68, 68, 0.2)';
+    btn.style.borderColor = '#ef4444';
+    feedback.style.background = 'rgba(239, 68, 68, 0.1)';
+    feedback.style.borderLeft = '4px solid #ef4444';
+    feedback.style.color = '#ef4444';
+    feedback.innerHTML = '<strong>❌ KURANG TEPAT!</strong><br><span style="color:var(--text-muted);">Jawaban yang benar adalah opsi dengan teks: <b>' + correctExt + '</b><br>Keterangan: ' + explanation + '</span>';
+  }
+  feedback.style.display = 'block';
+};
+
